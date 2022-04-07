@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+
+}
+
+
+.photo{
+    height: 120px;
+    width: 120px;
+    border-radius:70%;
+    background-color:#00FFC6;
+    
+}
+hr{
+    width:20%;
+    border-bottom: dotted;
+    size: 5px;
+border-top:none;
+}
+.parent{
+    text-align: center;
+}
+.table{
+    margin: auto ;
+    padding: 0 10px;
+    font-size:20px;
+    
+}
+.secparent{
+    font-size: 20px;
+    text-decoration: none;
+}
+.subtable{
+    padding-left: 150px;
+}
+p{
+    font-size: 20px;
+}
